@@ -8,3 +8,5 @@ Windows 11 stock apps eat a lot of your disk space. Some are helpful, others fee
 
 Before removal, the apps are moved to the recycle bin. This should be one of the safest methods to remove the correct bloatware and avoid accidentally deleting the wrong app.
 
+Get it [here](https://github.com/builtbybel/JunkCtrl/releases)
+
